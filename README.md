@@ -8,5 +8,5 @@ In the t-channel basis we also check that the entire dependence on non-collinear
 
 # Usage
 To run the Mathematica notebook "TwoLoopHiddenRegion.nb", the package "PolyLogTools"(https://arxiv.org/pdf/1904.07279) should be installed. 
-Please put the file "Amp5ptTchannel.mx", "DPHiddenRegion.mx", "HBHiddenRegion.mx", "DeltaTimesAmp4pt.mx" and "Amplitude2L.txt" in the same directory as that of the notebook.
+Please put the file "DPHiddenRegion.m", "HBHiddenRegion.m", "ColourRotate.m", "ColOpTMM.m", "ColOpTMP.m", "ColOpTPM.m", "ColOpTPP.m" and "Amplitude2L.txt" in the same directory as that of the notebook.
 
